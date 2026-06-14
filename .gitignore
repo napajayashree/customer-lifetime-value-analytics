@@ -216,3 +216,28 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Project-specific files
+data/raw/
+data/interim/
+data/processed/
+models/
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# Local outputs
+outputs/
+reports/
+logs/
+
+# Dataset files
+*.csv
+*.xlsx
+*.xls
+
+# API / Streamlit local files
+.env
+.streamlit/secrets.toml
