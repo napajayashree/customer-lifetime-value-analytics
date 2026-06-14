@@ -62,4 +62,6 @@ python run_pipeline.py
 uvicorn main:app --reload
 streamlit run dashboard.py
 ```
----Jayashree Napa
+## Author
+JAYASHREE NAPA
+
